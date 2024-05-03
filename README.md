@@ -152,3 +152,7 @@ Restore the backed-up warehouse status and overwrite the current warehouse statu
 ## Running Example
 Is available at 
 [/Example/RunningExample.pdf](/Example/RunningExample.pdf)
+
+## System Requirements
+- CPP compiler
+- makefile
