@@ -4,8 +4,7 @@ BGU SPL course 1st assignment. Written in C++11.
 # Project Overview
 ## Project Objectives
 The objective of this assignment is to design an object-oriented system and gain
-implementation experience in C++ while using classes, standard data structures, and unique
-C++ properties such as the “Rule of 5”.
+implementation experience in C++ while using classes, standard data structures, and unique C++ properties such as the “Rule of 5”.
 
 ## Assignment	Definition
 In a faraway Country, SPLand, A war is going on for few months.
