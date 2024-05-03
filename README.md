@@ -1,5 +1,6 @@
 # Food-Warehouse-Management-System
 BGU SPL course 1st assignment. Written in C++11 and build with Makefile.
+This is a simulation game about managing a warehouse, creating orders and instructing the volunteers to make and ship the orders to clients.
 
 # How to Run
 1. Clone the repository to your local machine.
