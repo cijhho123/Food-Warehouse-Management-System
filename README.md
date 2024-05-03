@@ -1,11 +1,7 @@
 # Food-Warehouse-Management-System
 BGU SPL course 1st assignment. Written in C++11.
 
-# Project Overview
-## Project Objectives
-The objective of this assignment is to design an object-oriented system and gain implementation experience in C++ while using classes, standard data structures, and unique C++ properties such as the “Rule of 5”.
-
-## How to Run
+# How to Run
 1. Clone the repository to your local machine.
 2. Navigate to the project directory in your terminal.
 3. Compile the source files using the provided makefile:
@@ -18,6 +14,11 @@ The objective of this assignment is to design an object-oriented system and gain
 bash
 ./bin/warehouse <path_to_configuration_file>
 ```
+
+# Project Overview
+## Project Objectives
+The objective of this assignment is to design an object-oriented system and gain implementation experience in C++ while using classes, standard data structures, and unique C++ properties such as the “Rule of 5”.
+
 
 ## Assignment	Definition
 In a faraway Country, SPLand, A war is going on for few months. As part of the efforts to contribute and take care of the country’s citizens, few citizens decided to establish a food warehouse that supplies others food packages. The center is operated by volunteers in different roles, and their job is to handle orders made by the customers.
